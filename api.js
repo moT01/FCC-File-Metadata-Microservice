@@ -1,11 +1,7 @@
 //Dependencies
 var multer = require('multer');
 var fs = require('fs');
-var mongo = require('mongodb').MongoClient;
 require('dotenv').config();
-
-//Variables
-var url = 'mongodb://localhost:27017/' || 'mongodb://'+process.env.USER+':'+process.env.PASS+'@'+process.env.HOST+':'+process.env.DB_PORT+'/'+process.env.DB;
 
 module.exports = function(app) {
 	
