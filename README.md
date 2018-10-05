@@ -1,5 +1,5 @@
 ## FCC-File-Metadata-Microservice
-##### File Metadata project for [freecodecamp.com](https://www.freecodecamp.org/challenges/file-metadata-microservice)
+##### File Metadata project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://zenith-double.glitch.me/)
 
 <br/>
@@ -17,6 +17,6 @@
 
 ##### Technologies used to complete this project
 - HTML
-- NodeJS
+- Javascript
+- Node
 - Express
-
